@@ -1,2 +1,6 @@
-# Encrypting and decrypting a file in python
- This little program written by me in a couple of minutes will help to encrypt and decrypt files knowing only the password. The program is convenient, but not localized
+Hello. This is a very simple program. To run it, you will need to install only one library: pyAesCrypt  
+
+you can install it using the program: 
+        pip3 install pyAesCrypt 
+
+Enjoy using it!
